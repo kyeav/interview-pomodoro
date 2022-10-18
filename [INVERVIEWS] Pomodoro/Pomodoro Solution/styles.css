@@ -1,0 +1,13 @@
+#stopwatch {
+  background-color: rgba(0, 255, 30, 0.391);
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+#timer {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
